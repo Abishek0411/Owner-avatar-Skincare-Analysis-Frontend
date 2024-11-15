@@ -1,9 +1,3 @@
-
----
-
-### **Front-End Repository (`Acne Recognition and Skincare Recommendation System Front-end`)**
-
-```markdown
 # Acne Recognition and Skincare Recommendation System - Frontend
 
 This repository contains the front-end mobile app for the Acne Recognition and Skincare Recommendation System. The app allows users to capture their facial images, receive skincare recommendations, and view personalized analysis results.
